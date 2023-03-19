@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub Ticker1():
 
 For Each ws In Worksheets
